@@ -1,83 +1,91 @@
-![giats.me cover](/public/og.png)
+import Image from 'next/image'
 
-# giats.me — Personal Portfolio Website
+<Image
+  src="/public/og.png"
+  alt="Muhammad Arslan Portfolio Cover"
+  width={1200}
+  height={630}
+/>
 
-This is the **original source code** for [giats.me](https://marslanmustafa.com), the personal portfolio website of **Muhammd Arslan**.
+# muhammadarslan.dev — Immersive Portfolio Experience
 
-I designed and built this project from scratch using modern web technologies to push the creative limits of front-end development. The site blends smooth animation, layered visuals, and technical precision to present my work in a unique and immersive way.
+Welcome to the **source code** of [muhammadarslan.dev](https://muhammadarslan.dev) — the **flagship digital presence** of **Muhammad Arslan**, a full-stack visionary pushing the boundaries of creative front-end engineering.
 
-> 🏆 **Multi-award-winning site, featured on major design platforms**:
+This site was meticulously architected from the ground up, blending **avant-garde design**, **high-performance web technologies**, and **immersive interaction layers** to deliver a one-of-a-kind user experience that resonates with modern digital artistry.
+
+> 🏆 **Globally recognized, multi-award-winning site featured by leading design authorities**:
 >
-> - 🥇 [CSS Design Awards — WOTD + 3 Special Kudos](https://www.cssdesignawards.com/sites/giats-portfolio/46067/)
+> - 🥇 [CSS Design Awards — WOTD + Triple Special Kudos](https://www.cssdesignawards.com/sites/giats-portfolio/46067/)
 > - 🥈 [Awwwards — Honorable Mention](https://www.awwwards.com/sites/https-giats-me)
 > - 🥉 [GSAP — Site of the Day](https://gsap.com/showcase/?page=1)
 
 ---
 
-## ⭐ Show Some Love
+## ⭐ Support This Craft
 
-If you find this project useful, inspiring, or just cool, please consider giving it a star on GitHub!  
-Your support helps me keep improving and sharing my work. Thank you! 🙏
-
----
-
-## 🧠 Concept & Structure
-
-The visual foundation of giats.me is built around a **three-phase layering system**:
-
-1. **The Background Phase**  
-   A dynamic, animated 3D world rendered with React Three Fiber, serving as the visual foundation of the site.
-
-2. **The Main Website Phase**  
-   This layer contains all the actual content — projects, about section, contact, etc. Structurally clean and minimal to let animations breathe.
-
-3. **The Fluid Animation Layer (Above All)**  
-   A real-time fluid simulation overlays the entire interface, using `mix-blend-mode` and the cursor to create an interactive, artistic brush effect. It responds to user input, adding a subtle but powerful sense of depth and responsiveness.
-
-### 🪟 “Window” Effect
-
-Throughout the content layer, I created intentional **cut-out sections** or “windows” that act as **holes in the layout**, letting the background animation show through. These openings create a surreal experience where the layers visually bleed into each other, amplifying the immersive feel of the site.
+If this project sparks your curiosity, inspires your creativity, or simply leaves you impressed — a star on GitHub is deeply appreciated.  
+Your support fuels future innovation and open-source sharing. 🙌
 
 ---
 
-## ⚙️ Tech Stack
+## 🧠 Architectural Philosophy
 
-- **Framework:** [Next.js](https://nextjs.org/) (React)
-- **3D & Canvas:** [React Three Fiber](https://docs.pmnd.rs/react-three-fiber)
-- **Animation:** [GSAP](https://greensock.com/gsap/) with ScrollTrigger
-- **Transitions & Scroll UX:** Custom GSAP-powered page transitions and smooth scroll behavior
-- **Styling:** SCSS / CSS Modules
-- **Hosting:** [Vercel](https://vercel.com)
+**muhammadarslan.dev** is constructed around a **triple-layered immersive framework** designed to create depth, delight, and interactivity:
+
+1. **🌌 The Dimensional Background Layer**  
+   A living 3D universe powered by React Three Fiber sets the atmospheric tone — acting as a dynamic canvas for the entire site.
+
+2. **🧱 The Core Content Layer**  
+   Thoughtfully structured with minimal yet elegant composition to present projects, insights, and contact details. This layer ensures clarity while letting the creative elements breathe.
+
+3. **🎨 The Interactive Fluid Layer**  
+   A real-time fluid simulation overlays the interface, leveraging cursor input, `mix-blend-mode`, and layered animation to create a responsive, kinetic brush effect — merging art with interaction.
+
+### 🪟 Surreal “Window” Cutouts
+
+Strategic “windows” punctuate the layout — literal holes in the design revealing glimpses of the background canvas. These openings create **visual bleeding across layers**, delivering a cinematic sense of movement and immersion.
 
 ---
 
-## 📸 Assets & Privacy Notice
+## ⚙️ Technological Ecosystem
 
-- Personal and client-related visuals (e.g., images, logos, portraits) have been **blurred, replaced, or omitted** to respect privacy and copyright.
-- The full visual experience is available at [giats.me](https://marslanmustafa.com).
-- **Do not reuse images or branding without permission.**
+This experience is powered by a future-proof, performance-optimized tech stack:
+
+- **Framework:** [Next.js](https://nextjs.org/) (React-based SSR/SSG)
+- **3D & WebGL Rendering:** [React Three Fiber](https://docs.pmnd.rs/react-three-fiber)
+- **Motion & Animation:** [GSAP](https://greensock.com/gsap/) with ScrollTrigger and advanced transitions
+- **UX Enhancements:** Custom page transitions, inertial scroll behavior, and parallax illusions
+- **Styling:** SCSS & CSS Modules for scoped, maintainable design systems
+- **Deployment & Hosting:** [Vercel](https://vercel.com) for global, blazing-fast edge delivery
+
+---
+
+## 📸 Visuals & Usage Policy
+
+- Proprietary visuals (client work, photography, branding assets) are either **blurred**, **masked**, or **removed** in this repository to respect privacy and legal boundaries.
+- For the full visual experience, visit [muhammadarslan.dev](https://muhammadarslan.dev).
+- **Do not reuse any imagery, videos, or branded elements without explicit permission.**
 
 ---
 
 ## 📄 License & Attribution
 
-This project is licensed under the **MIT License (with attribution required)**.
+This project is licensed under the **MIT License**, with attribution required.
 
-> If you use this code or parts of it, **credit is required**:
+> If you adapt or build upon this work, please credit:
 >
-> _"Original portfolio design and development by Muhammd Arslan — [giats.me](https://marslanmustafa.com)"_
+> _“Original design and engineering by Muhammad Arslan — [marslanmustafa.com](https://marslanmustafa.com)”_
 
-You are welcome to learn from or build upon this project, but **do not claim it as your own or use it commercially without permission.**
+Commercial usage, replication, or redistribution **without proper credit or permission** is strictly prohibited.
 
 ---
 
-## 📬 Contact
+## 📬 Let’s Connect
 
 - 📧 Email: [marslanmustafa391@gmail.com](mailto:marslanmustafa391@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/giats](https://www.linkedin.com/in/marslanmustafa/)
-- 🌐 Website: [giats.me](https://marslanmustafa.com)
-- 🐦 X (Twitter): [@Giats\_](https://x.com/Giats_)
+- 💼 LinkedIn: [linkedin.com/in/marslanmustafa](https://www.linkedin.com/in/marslanmustafa/)
+- 🌐 Portfolio: [muhammadarslan.dev](https://muhammadarslan.dev)
 
 ---
 
-Thank you for checking out my portfolio. I hope this project inspires or helps you in your own creative journey.
+Thank you for exploring this creative journey. May this project ignite your own passion for design, innovation, and artistic engineering.

@@ -28,6 +28,7 @@ function CustomHead({ title = '', description, keywords }) {
     <>
       <NextHead>
         {/* General Meta Tags */}
+        <meta name="google-adsense-account" content="ca-pub-8461505608863088" />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta httpEquiv="x-dns-prefetch-control" content="off" />
         <meta name="robots" content={process.env.NODE_ENV !== 'development' ? 'index,follow' : 'noindex,nofollow'} />
