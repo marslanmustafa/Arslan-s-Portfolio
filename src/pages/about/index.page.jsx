@@ -6,11 +6,12 @@ import Process from '@src/pages/about/components/process/Process';
 import CustomHead from '@src/components/dom/CustomHead';
 
 const seo = {
-  title: 'Giats - About',
+  title: 'Muhammad Arslan - About',
   description: 'Learn about my journey, values, and commitment to quality web and app solutions.',
   keywords: [
-    'Giats',
-    'About Evangelos Giatsidis',
+    'Arslan',
+    'About Muhammad Arslan',
+    'About Muhammad Arslan Mustafa',
     'About me',
     'Frontend Developer Journey',
     'Web Developer Story',

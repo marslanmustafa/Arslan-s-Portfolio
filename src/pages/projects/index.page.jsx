@@ -16,10 +16,12 @@ import { useStore } from '@src/store';
 import { useWindowSize } from '@darkroom.engineering/hamo';
 
 const seo = {
-  title: 'Giats - Projects',
+  title: 'Muhammad Arslan - Projects',
   description: 'Explore my portfolio to see a range of frontend projects, from responsive websites to web applications. Discover my work with React, Nextjs, React three fiber, Electron and more.',
   keywords: [
-    'Giats Projects',
+    'Arslan',
+    'Muhammad Arslan',
+    'Muhammad Arslan Mustafa',
     'Portfolio Showcase',
     'Frontend Development Examples',
     'Web Design Portfolio',
@@ -32,7 +34,7 @@ const seo = {
     'React Three Fiber Projects',
     'Electron Projects',
     'Professional Web Development',
-    'Evangelos Giatsidis Projects',
+    'Muhammad Arslan Projects',
   ],
 };
 
@@ -90,14 +92,8 @@ function Page() {
               <div
                 style={
                   !isMobile
-                    ? {
-                        height: index === projects.length - 1 ? '200svh' : `${200 + 100 * index}svh`,
-                        top: index === 0 ? '0px' : '-100svh',
-                      }
-                    : {
-                        height: index === projects.length - 1 ? '100svh' : `${200 + 100 * index}svh`,
-                        top: index === 0 ? '0px' : '-50svh',
-                      }
+                    ? { height: index === projects.length - 1 ? '200svh' : `${200 + 100 * index}svh`, top: index === 0 ? '0px' : '-100svh' }
+                    : { height: index === projects.length - 1 ? '100svh' : `${200 + 100 * index}svh`, top: index === 0 ? '0px' : '-50svh' }
                 }
                 className={styles.projectsWrap}
               >

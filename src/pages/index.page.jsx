@@ -7,12 +7,12 @@ import Clients from '@src/pages/components/clients/Index';
 import CustomHead from '@src/components/dom/CustomHead';
 
 const seo = {
-  title: 'Giats - Frontend Developer Portfolio',
-  description:
-    'Self-taught front-end developer from Greece, crafting sleek and efficient web, desktop, and mobile apps. Combining creativity and technical skill to deliver innovative user-centric solutions.',
+  title: 'Muhammad Arslan - Frontend Developer Portfolio',
+  description: 'Front-end developer from Pakistan, crafting sleek and efficient web, desktop, and mobile apps. Combining creativity and technical skill to deliver innovative user-centric solutions.',
   keywords: [
-    'Giats',
-    'Evangelos Giatsidis',
+    'Arslan',
+    'Muhammad Arslan',
+    'Muhammad Arslan Mustafa',
     'Frontend',
     'Engineer',
     'Portfolio',
@@ -25,13 +25,13 @@ const seo = {
     'Freelance Developer',
     'Modern Web Development',
     'cross-platform development',
-    'Greek',
+    'Pakistan',
     'JavaScript',
     'Typescript',
     'Next.js',
     'React',
     'React Native',
-    'Electron js',
+    'Electrical',
     'HTML',
     'CSS',
   ],

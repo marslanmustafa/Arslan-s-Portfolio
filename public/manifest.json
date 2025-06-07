@@ -1,7 +1,7 @@
 {
-  "name": "Giats - Frontend Developer Portfolio",
-  "short_name": "Giats - Portfolio",
-  "description": "Self-taught front-end developer from Greece, crafting sleek and efficient web, desktop, and mobile apps. Combining creativity and technical skill to deliver innovative user-centric solutions.",
+  "name": "Muhammad Arslan - Frontend Developer Portfolio",
+  "short_name": "Muhammad Arslan - Portfolio",
+  "description": "Front-end developer from Pakistan, crafting sleek and efficient web, desktop, and mobile apps. Combining creativity and technical skill to deliver innovative user-centric solutions.",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -16,7 +16,7 @@
       "purpose": "any"
     }
   ],
-  "theme_color": "#28282b",
+  "theme_color": "#0B0B67FF",
   "background_color": "#f0f4f1",
   "start_url": "/",
   "scope": ".",
