@@ -7,9 +7,9 @@ import Image from 'next/image'
   height={630}
 />
 
-# muhammadarslan.dev — Immersive Portfolio Experience
+# marslanmustafa.com — Immersive Portfolio Experience
 
-Welcome to the **source code** of [muhammadarslan.dev](https://muhammadarslan.dev) — the **flagship digital presence** of **Muhammad Arslan**, a full-stack visionary pushing the boundaries of creative front-end engineering.
+Welcome to the **source code** of [marslanmustafa.com](https://marslanmustafa.com) — the **flagship digital presence** of **Muhammad Arslan**, a full-stack visionary pushing the boundaries of creative front-end engineering.
 
 This site was meticulously architected from the ground up, blending **avant-garde design**, **high-performance web technologies**, and **immersive interaction layers** to deliver a one-of-a-kind user experience that resonates with modern digital artistry.
 
@@ -30,7 +30,7 @@ Your support fuels future innovation and open-source sharing. 🙌
 
 ## 🧠 Architectural Philosophy
 
-**muhammadarslan.dev** is constructed around a **triple-layered immersive framework** designed to create depth, delight, and interactivity:
+**marslanmustafa.com** is constructed around a **triple-layered immersive framework** designed to create depth, delight, and interactivity:
 
 1. **🌌 The Dimensional Background Layer**  
    A living 3D universe powered by React Three Fiber sets the atmospheric tone — acting as a dynamic canvas for the entire site.
@@ -63,7 +63,7 @@ This experience is powered by a future-proof, performance-optimized tech stack:
 ## 📸 Visuals & Usage Policy
 
 - Proprietary visuals (client work, photography, branding assets) are either **blurred**, **masked**, or **removed** in this repository to respect privacy and legal boundaries.
-- For the full visual experience, visit [muhammadarslan.dev](https://muhammadarslan.dev).
+- For the full visual experience, visit [marslanmustafa.com](https://marslanmustafa.com).
 - **Do not reuse any imagery, videos, or branded elements without explicit permission.**
 
 ---
@@ -84,7 +84,7 @@ Commercial usage, replication, or redistribution **without proper credit or perm
 
 - 📧 Email: [marslanmustafa391@gmail.com](mailto:marslanmustafa391@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/marslanmustafa](https://www.linkedin.com/in/marslanmustafa/)
-- 🌐 Portfolio: [muhammadarslan.dev](https://muhammadarslan.dev)
+- 🌐 Portfolio: [marslanmustafa.com](https://marslanmustafa.com)
 
 ---
 
